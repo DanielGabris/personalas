@@ -5,6 +5,7 @@ Prerequisite:
 - pip3
 
 Installation Guide:
+
 1. Install necessary packages by running following command:
 pip install -r requirement.txt
 python3 manage.py migrate
